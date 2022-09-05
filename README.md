@@ -57,6 +57,7 @@ turndown-plugin-gfm is a suite of plugins which can be applied individually. The
 - `strikethrough` (for converting `<strike>`, `<s>`, and `<del>` elements)
 - `tables`
 - `taskListItems`
+- `underline`
 - `gfm` (which applies all of the above)
 
 So for example, if you only wish to convert tables:
