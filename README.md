@@ -55,6 +55,8 @@ var markdown = turndownService.turndown('<strike>Hello world!</strike>')
 turndown-plugin-gfm is a suite of plugins which can be applied individually. The available plugins are as follows:
 
 - `strikethrough` (for converting `<strike>`, `<s>`, and `<del>` elements)
+- `subscript`
+- `superscript`
 - `tables`
 - `taskListItems`
 - `underline`
